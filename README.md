@@ -2,7 +2,7 @@
 ## Olá, pessoal, sou Rodrigo
 
 
-<--
+
 - 📌 I’m currently 🛠️working to 🎨develop a good professional 🎞️career in 💻programming.
   📌 Estou, atualmente, 🛠️trabalhando para 🎨desenvolver uma boa 🎞️carreira profissional em 💻programação.
 - 🌱 I’m currently 📖learning 🐍Python
@@ -15,4 +15,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
