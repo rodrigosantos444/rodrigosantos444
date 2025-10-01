@@ -1,5 +1,6 @@
-## Hi there, I'm Rodrigo�
+## Hi there, I'm Rodrigo
 ## Olá, pessoal, sou Rodrigo
+
 
 
 
