@@ -1,10 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Rodrigo�
+## Olá, pessoal, sou Rodrigo
 
-<!--
-**rodrigosantos444/rodrigosantos444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+<--
 - 📌 I’m currently 🛠️working to 🎨develop a good professional 🎞️career in 💻programming.
   📌 Estou, atualmente, 🛠️trabalhando para 🎨desenvolver uma boa 🎞️carreira profissional em 💻programação.
 - 🌱 I’m currently 📖learning 🐍Python
